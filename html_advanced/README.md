@@ -14,4 +14,4 @@
 
 ## Task 1.3
 
-![This is an alt text.](/assets/images/project_header.png "This is a sample image.")
+![This is an alt text.](https://github.com/RasimAghayev/holbertonschool-web-development/blob/master/html_advanced/assets/images/project_header.png "This is a sample image.")
