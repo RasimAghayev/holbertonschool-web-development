@@ -4,12 +4,45 @@
 
 /* The header is contain in the page: not taking the entire width and is centered */
 
-header{
-    max-width: 1120px;
-    margin: 0 auto;
+/* body{
+    background-color: rgb(15, 243, 45);
+} */
+*,
+*::before,
+*::after { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
 }
-
+header{
+    max-width : 90rem;
+    max-height: 69rem;
+}
+.header_menu {
+    margin: 35px 171px 0px 171px;
+    max-width: 1120px;
+    /* border: 1px solid rgb(221, 23, 23); */
+}
 /* “Smile School” logo is used in the header and is placed on the top left */
 .header_logo {
     float: left;
+    /* border:1px solid rgb(43, 23, 221); */
+}
+
+/* The 3 links on the header are horizontally aligned, in white without the underline and the block is aligned to the right */
+
+.header_links ul{
+    float: right;
+    text-align: center;
+    /* border:1px solid rgb(23, 158, 221); */
+}
+.header_links li{
+  display: inline;
+  margin-left: 20px;
+  /* border:1px solid rgb(221, 218, 23); */
+}
+.header_links li a{
+  color: #FFFFFF;
+  text-decoration: none;
+  /* border:1px solid rgb(181, 23, 221); */
 }
