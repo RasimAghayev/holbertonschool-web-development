@@ -2,9 +2,14 @@
 2. Header and Banner
 */
 
-/*The header is contain in the page: not taking the entire width and is centered */
+/* The header is contain in the page: not taking the entire width and is centered */
 
 header{
     max-width: 1120px;
     margin: 0 auto;
+}
+
+/* “Smile School” logo is used in the header and is placed on the top left */
+.header_logo {
+    float: left;
 }
