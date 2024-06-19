@@ -18,7 +18,7 @@ Follow:
 - [x] The header is contain in the page: not taking the entire width and is centered
 - [x] “Smile School” logo is used in the header and is placed on the top left
 - [x] The 3 links on the header are horizontally aligned, in white without the underline and the block is aligned to the right
-- [ ] The h1 has the correct wor     ding “Get schooled”, with the correct font size, color, centered and with the correct spacing with the header
+- [x] The h1 has the correct wording “Get schooled”, with the correct font size, color, centered and with the correct spacing with the header
 - [ ] The text under the h1 is in white, centered, with the right font-size and spacing
 - [ ] The button has the correct style: colors, rounded corners, shadow, spaces around and centered
 - [ ] The h2 has the correct styling: color, font size, margin around and centered
